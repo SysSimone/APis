@@ -1,0 +1,12 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Simone Balzan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
